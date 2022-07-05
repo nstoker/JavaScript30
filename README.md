@@ -13,4 +13,5 @@ Muscle memory is important, getting used to typing the code while you're adding 
 ## Completed
 
 [x] [01-JavaScript-Drumkit](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130650).
-[] [CSS + JS Clock](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130581).
+[x] [CSS + JS Clock](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130581).
+[] [Playing with CSS Variables and JS](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130480).
