@@ -16,4 +16,4 @@ Muscle memory is important, getting used to typing the code while you're adding 
 [x] [CSS + JS Clock](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130581).
 [x] [Playing with CSS Variables and JS](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130480).
 [x] [Array Cardio Day 1](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130346).
-[] [Flex Panels Image Gallery](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130264)
+[x] [Flex Panels Image Gallery](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130264)
