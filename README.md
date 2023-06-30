@@ -31,4 +31,4 @@ Gets data using `fetch` from the internet, filters using a regex to get matching
 
 This feels like the first useful task on the course.
 
-At 16:40 The highlight isn't working in the city/state names.
+Issue with mis-reading an `hl` as an `h1` - That is the ell as a one.
