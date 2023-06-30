@@ -18,7 +18,6 @@ Muscle memory is important, getting used to typing the code while you're adding 
 
 ### [x] [Playing with CSS Variables and JS](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130480)
 
-
 ### [x] [Array Cardio Day 1](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130346)
 
 ### [x] 05 [Flex Panels Image Gallery](https://courses.wesbos.com/account/access/)
@@ -32,3 +31,7 @@ Gets data using `fetch` from the internet, filters using a regex to get matching
 This feels like the first useful task on the course.
 
 Issue with mis-reading an `hl` as an `h1` - That is the ell as a one.
+
+## [] 07 [Array Cardio Day 2](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130101)
+
+About to start
