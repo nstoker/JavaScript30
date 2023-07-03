@@ -36,4 +36,5 @@ Issue with mis-reading an `hl` as an `h1` - That is the ell as a one.
 
 When using console.log, {variable} will dump the name of the variable as well as it's value.
 
-at 2:00
+added "HotShot" and put code into the arrow function. I don't feel that doing this improves readability.
+
