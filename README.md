@@ -38,3 +38,15 @@ When using console.log, {variable} will dump the name of the variable as well as
 
 added "HotShot" and put code into the arrow function. I don't feel that doing this improves readability.
 
+So...
+
+`.some()` will operate over some of the array
+`.every()` operates over all of them
+`.find()` will find a matching value
+`.findIndex()` will find the index number
+`.splice(index,1)` will remove the index value from the array
+`const newComments = [
+    ...comments.slice(0,index),
+    ...comments.slice(index+1)
+]` will merge the two halves of the array into a new one. The `...` is the spread operator.
+
