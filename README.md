@@ -34,4 +34,6 @@ Issue with mis-reading an `hl` as an `h1` - That is the ell as a one.
 
 ## [] 07 [Array Cardio Day 2](https://courses.wesbos.com/account/access/62c2fcf388db94aff3cc6e29/view/194130101)
 
-About to start
+When using console.log, {variable} will dump the name of the variable as well as it's value.
+
+at 2:00
